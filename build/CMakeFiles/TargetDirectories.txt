@@ -1,0 +1,3 @@
+/home/oscar/Desktop/GEAFINAL/build/CMakeFiles/GEA.dir
+/home/oscar/Desktop/GEAFINAL/build/CMakeFiles/edit_cache.dir
+/home/oscar/Desktop/GEAFINAL/build/CMakeFiles/rebuild_cache.dir
